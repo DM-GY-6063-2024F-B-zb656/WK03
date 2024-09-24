@@ -16,12 +16,12 @@ function setup() {
 
   //drawing a row of stars
   // for (let x = 50; x < width; x += 75) {
-    // star(x, 50, 50, 5);
+  // star(x, 50, 50, 5);
   // }
 
   // drawing a column of stars
   // for (let y = 50; y < width; y += 75) {
-    // star(50, y, 50, 5);
+  // star(50, y, 50, 5);
   // }
 
   // drawing multiple rows of rows
